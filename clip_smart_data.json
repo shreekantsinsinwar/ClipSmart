@@ -1,0 +1,57 @@
+{
+  "history": [
+    {
+      "text": "![ClipSmart Screenshot](assets/screenshot.png)",
+      "timestamp": "2025-07-09 19:20:05"
+    },
+    {
+      "text": "/home/neo/Pictures/Screenshots/Screenshot from 2025-07-09 19-12-24.png\n/home/neo/Pictures/Screenshots/Screenshot from 2025-07-09 19-13-36.png\n/home/neo/Pictures/Screenshots/Screenshot from 2025-07-09 19-17-05.png\n/home/neo/Pictures/Screenshots/Screenshot from 2025-07-09 19-18-04.png",
+      "timestamp": "2025-07-09 19:18:32"
+    },
+    {
+      "text": "The Machine Learning Specialization is a foundational online program created in collaboration between Stanford Online and DeepLearning.AI. This beginner-friendly program will teach you the fundamentals of machine learning and how to use these techniques to build real-world AI applications.\n\nThis 3-course Specialization is an updated and expanded version of Andrew Ng\u2019s pioneering Machine Learning course. It provides a broad introduction to modern machine learning, including supervised learning (multiple linear regression, logistic regression, neural networks, and decision trees), unsupervised learning (clustering, dimensionality reduction, recommender systems), and some of the best practices used for artificial intelligence and machine learning innovation (evaluating and tuning models, taking a data-centric approach to improving performance, and more.)",
+      "timestamp": "2025-07-09 19:16:31"
+    },
+    {
+      "text": "Resemble Enhance is an AI-powered tool that aims to improve the overall quality of speech by performing denoising and enhancement. It consists of two modules: a denoiser, which separates speech from a noisy audio, and an enhancer, which further boosts the perceptual audio quality by restoring audio distortions and extending the audio bandwidth. The two models are trained on high-quality 44.1kHz speech data that guarantees the enhancement of your speech with high quality.",
+      "timestamp": "2025-07-09 19:16:19"
+    },
+    {
+      "text": "FastAPI features\u00b6\n\nFastAPI gives you the following:\nBased on open standards\u00b6\n\n    OpenAPI for API creation, including declarations of path operations, parameters, request bodies, security, etc.\n    Automatic data model documentation with JSON Schema (as OpenAPI itself is based on JSON Schema).\n    Designed around these standards, after a meticulous study. Instead of an afterthought layer on top.\n    This also allows using automatic client code generation in many languages.\n\n",
+      "timestamp": "2025-07-09 19:16:07"
+    },
+    {
+      "text": "A Zettelkasten, meaning \"note box\" in German, is a knowledge management and personal knowledge base system that emphasizes linking individual notes together to create a network of ideas. It's a method for organizing information in a way that fosters creativity and deeper understanding by connecting related concepts and building upon existing knowledge",
+      "timestamp": "2025-07-09 19:15:54"
+    },
+    {
+      "text": "Argparse Tutorial\n\nauthor:\n\n    Tshepang Mbambo\n\nThis tutorial is intended to be a gentle introduction to argparse, the recommended command-line parsing module in the Python standard library.\n\nNote\n\nThe standard library includes two other libraries directly related to command-line parameter processing: the lower level optparse module (which may require more code to configure for a given application, but also allows an application to request behaviors that argparse doesn\u2019t support), and the very low level getopt (which specifically serves as an equivalent to the getopt() family of functions available to C programmers). While neither of those modules is covered directly in this guide, many of the core concepts in argparse first originated in optparse, so some aspects of this tutorial will also be relevant to optparse users. ",
+      "timestamp": "2025-07-09 19:15:37"
+    },
+    {
+      "text": "",
+      "timestamp": "2025-07-09 19:11:54"
+    },
+    {
+      "text": "\n\n    Yes, it\u2019s now more of a flag (similar to action=\"store_true\") in the previous version of our script. That should explain the complaint.\n\n    It also behaves similar to \u201cstore_true\u201d action.\n\n    Now here\u2019s a demonstration of what the \u201ccount\u201d action gives. You\u2019ve probably seen this sort of usage before.\n\n    And if you don\u2019t specify the -v flag, that flag is considered to have None value.\n\n    As should be expected, specifying the long form of the flag, we should get the same output.\n\n    Sadly, our help output isn\u2019t very informative on the new ability our script has acquired, but that can always be fixed by improving the documentation for our script (e.g. via the help keyword argument).\n\n    That last output exposes a bug in our program.\n",
+      "timestamp": "2025-07-09 19:11:46"
+    },
+    {
+      "text": "Uvicorn is an ASGI web server implementation for Python.\n\nUntil recently Python has lacked a minimal low-level server/application interface for async frameworks. The ASGI specification fills this gap, and means we're now able to start building a common set of tooling usable across all async frameworks.",
+      "timestamp": "2025-07-09 19:11:36"
+    },
+    {
+      "text": "Validate complex structures:\n\n    Use of hierarchical Pydantic models, Python typing\u2019s List and Dict, etc.\n    And validators allow complex data schemas to be clearly and easily defined, checked and documented as JSON Schema.\n    You can have deeply nested JSON objects and have them all validated and annotated.\n",
+      "timestamp": "2025-07-09 19:11:23"
+    },
+    {
+      "text": "",
+      "timestamp": "2025-07-09 18:36:57"
+    },
+    {
+      "text": "The Machine Learning Specialization is a foundational online program created in collaboration between Stanford Online and DeepLearning.AI. This beginner-friendly program will teach you the fundamentals of machine learning and how to use these techniques to build real-world AI applications.",
+      "timestamp": "2025-07-09 18:35:59"
+    }
+  ],
+  "pinned": []
+}

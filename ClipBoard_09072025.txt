@@ -1,0 +1,5 @@
+Validate complex structures:
+
+    Use of hierarchical Pydantic models, Python typing’s List and Dict, etc.
+    And validators allow complex data schemas to be clearly and easily defined, checked and documented as JSON Schema.
+    You can have deeply nested JSON objects and have them all validated and annotated.

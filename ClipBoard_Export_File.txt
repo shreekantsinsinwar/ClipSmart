@@ -1,0 +1,66 @@
+2025-07-09 19:16:31 - The Machine Learning Specialization is a foundational online program created in collaboration between Stanford Online and DeepLearning.AI. This beginner-friendly program will teach you the fundamentals of machine learning and how to use these techniques to build real-world AI applications.
+
+This 3-course Specialization is an updated and expanded version of Andrew Ng’s pioneering Machine Learning course. It provides a broad introduction to modern machine learning, including supervised learning (multiple linear regression, logistic regression, neural networks, and decision trees), unsupervised learning (clustering, dimensionality reduction, recommender systems), and some of the best practices used for artificial intelligence and machine learning innovation (evaluating and tuning models, taking a data-centric approach to improving performance, and more.)
+
+2025-07-09 19:16:19 - Resemble Enhance is an AI-powered tool that aims to improve the overall quality of speech by performing denoising and enhancement. It consists of two modules: a denoiser, which separates speech from a noisy audio, and an enhancer, which further boosts the perceptual audio quality by restoring audio distortions and extending the audio bandwidth. The two models are trained on high-quality 44.1kHz speech data that guarantees the enhancement of your speech with high quality.
+
+2025-07-09 19:16:07 - FastAPI features¶
+
+FastAPI gives you the following:
+Based on open standards¶
+
+    OpenAPI for API creation, including declarations of path operations, parameters, request bodies, security, etc.
+    Automatic data model documentation with JSON Schema (as OpenAPI itself is based on JSON Schema).
+    Designed around these standards, after a meticulous study. Instead of an afterthought layer on top.
+    This also allows using automatic client code generation in many languages.
+
+
+
+2025-07-09 19:15:54 - A Zettelkasten, meaning "note box" in German, is a knowledge management and personal knowledge base system that emphasizes linking individual notes together to create a network of ideas. It's a method for organizing information in a way that fosters creativity and deeper understanding by connecting related concepts and building upon existing knowledge
+
+2025-07-09 19:15:37 - Argparse Tutorial
+
+author:
+
+    Tshepang Mbambo
+
+This tutorial is intended to be a gentle introduction to argparse, the recommended command-line parsing module in the Python standard library.
+
+Note
+
+The standard library includes two other libraries directly related to command-line parameter processing: the lower level optparse module (which may require more code to configure for a given application, but also allows an application to request behaviors that argparse doesn’t support), and the very low level getopt (which specifically serves as an equivalent to the getopt() family of functions available to C programmers). While neither of those modules is covered directly in this guide, many of the core concepts in argparse first originated in optparse, so some aspects of this tutorial will also be relevant to optparse users. 
+
+2025-07-09 19:11:54 - 
+
+2025-07-09 19:11:46 - 
+
+    Yes, it’s now more of a flag (similar to action="store_true") in the previous version of our script. That should explain the complaint.
+
+    It also behaves similar to “store_true” action.
+
+    Now here’s a demonstration of what the “count” action gives. You’ve probably seen this sort of usage before.
+
+    And if you don’t specify the -v flag, that flag is considered to have None value.
+
+    As should be expected, specifying the long form of the flag, we should get the same output.
+
+    Sadly, our help output isn’t very informative on the new ability our script has acquired, but that can always be fixed by improving the documentation for our script (e.g. via the help keyword argument).
+
+    That last output exposes a bug in our program.
+
+
+2025-07-09 19:11:36 - Uvicorn is an ASGI web server implementation for Python.
+
+Until recently Python has lacked a minimal low-level server/application interface for async frameworks. The ASGI specification fills this gap, and means we're now able to start building a common set of tooling usable across all async frameworks.
+
+2025-07-09 19:11:23 - Validate complex structures:
+
+    Use of hierarchical Pydantic models, Python typing’s List and Dict, etc.
+    And validators allow complex data schemas to be clearly and easily defined, checked and documented as JSON Schema.
+    You can have deeply nested JSON objects and have them all validated and annotated.
+
+
+2025-07-09 18:36:57 - 
+
+2025-07-09 18:35:59 - The Machine Learning Specialization is a foundational online program created in collaboration between Stanford Online and DeepLearning.AI. This beginner-friendly program will teach you the fundamentals of machine learning and how to use these techniques to build real-world AI applications.
+
